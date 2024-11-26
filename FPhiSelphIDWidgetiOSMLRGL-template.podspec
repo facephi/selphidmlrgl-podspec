@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
                 }
   
     spec.author             = { "Facephi" => "developer@facephi.com" }
-    spec.source       = { :git => "https://github.com/facephi/selphidrgl-framework.git", :tag => "#{spec.version}" }
+    spec.source       = { :git => "https://github.com/facephi/selphidmlrgl-framework.git", :tag => "#{spec.version}" }
   
     spec.ios.resources = "fphi-selphid-widget-resources-selphid-1.0.zip"
     spec.ios.vendored_frameworks = "FPhiSelphIDWidgetiOS.xcframework"
