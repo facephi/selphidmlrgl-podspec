@@ -35,7 +35,7 @@ Pod::Spec.new do |spec|
     spec.dependency 'DocumentReader', '~> 7.5.0'
     spec.dependency 'DocumentReaderFull', '~> 7.5.0'
     spec.dependency "FPhiMBWidgetiOS", "6.13.0"
-    spec.dependency 'FPHILicenseManager', '~> 0.4.0'
+    spec.dependency 'FPHILicenseManager', '< 1.0.0'
     spec.dependency 'GoogleMLKit/TextRecognition'
     spec.dependency 'GoogleMLKit/TextRecognitionKorean'
     spec.dependency 'GoogleMLKit/TextRecognitionJapanese'
